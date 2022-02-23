@@ -1,0 +1,11 @@
+.events {}
+.events-elements {
+    width: 1500px;
+    margin: 0px auto;
+}
+.events-elements-item {
+    border: 1px solid green;
+    display: inline-block;
+    width: 346px;
+    height: 450px;
+    margin: 0px 10px;
