@@ -1,4 +1,4 @@
-.events {}
+.events
 .events-elements {
     width: 1500px;
     margin: 0px auto;
@@ -9,3 +9,4 @@
     width: 346px;
     height: 450px;
     margin: 0px 10px;
+}
